@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "572556935251",
+    "project_id": "busticket-f5017",
+    "storage_bucket": "busticket-f5017.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572556935251:android:38729121db357c1a9a06a6",
+        "android_client_info": {
+          "package_name": "com.thabang.busticket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572556935251-10vq7ams58ni097h02ssu4ou0q8godp2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPEtKaC6G7elpqkaps-7dh9MwD7FdEnX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572556935251-10vq7ams58ni097h02ssu4ou0q8godp2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
